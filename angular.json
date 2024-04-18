@@ -94,6 +94,9 @@
             "scripts": []
           }
         }
+      },
+      "cli":{
+        "schematicCollection": "@ngrx/schematics"
       }
     }
   }
